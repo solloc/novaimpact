@@ -1,0 +1,2 @@
+# novaimpact
+base of operations
